@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arun
+- 👀 I’m interested in UI Design, Vue/Angular, .NET Core, and client/server side javscript
+- 🌱 I’m currently learning UI Design from youtube/DesignCourse, youtube/flux, and frontendmentor.io
+- 💞️ I’m looking to collaborate on javascipt/C# projects
